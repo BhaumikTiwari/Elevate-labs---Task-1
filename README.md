@@ -1,4 +1,4 @@
-# Elevate-labs Task-1
+# Elevate-labs java devloper internship Task-1
 
 imported Scanner using import java.util.*
 
