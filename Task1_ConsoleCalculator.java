@@ -43,7 +43,7 @@ public class Task1_ConsoleCalculator {
 
             if (choice == 5) {
                 keepRunning = false;
-                System.out.println("👋 Exiting the calculator. Goodbye!");
+                System.out.println("Exiting the calculator. Goodbye!");
                 continue;
             }
 
@@ -82,3 +82,4 @@ public class Task1_ConsoleCalculator {
         scanner.close();
     }
 }
+
